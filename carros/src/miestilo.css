@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.caja{
+    width: 30%;
+    background-color: darkgray;
+    font-size: 2em;
+    border-radius: 12px;
+    color: black;
+    text-align: center;
+    padding: 12PX;
+    margin: 20px;
+}
+img{
+    width: 100%;
+}
+.carro1{
+    width: 500px;
+}
